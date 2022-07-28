@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  Gifty-Wallet
+//  GiftyWallet
 //
 //  Created by USER on 2022/05/15.
 //
